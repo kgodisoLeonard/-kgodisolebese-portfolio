@@ -19,7 +19,7 @@ I'm a passionate software developer based in **Limpopo, South Africa**, willing 
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Emergency Rescue App** | Web-based emergency response tool with location sharing | [Live Demo](https://emergency-rescue-app.onrender.com) |
+| **Emergency Rescue App** | Web-based emergency response tool with location sharing | [Live Demo](https://emergency-rescue-app.onrender.com) · [Admin View](https://emergency-rescue-app.onrender.com/admin.html) |
 | **Huawei ICT Competition Project** | Simulated enterprise network solution | [Live Demo](https://huawei-project.vercel.app) |
 | **IBM SkillsBuild Team Project** | Agile team project with version control & documentation | — |
 | **Portfolio Website** | This portfolio, deployed on GitHub Pages | [Live](https://kgodisoLeonard.github.io/-kgodisolebese-portfolio/) |
